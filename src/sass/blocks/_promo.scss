@@ -40,4 +40,14 @@
         line-height: 14px;
         color: #FFFFFF;
     }
+    &__link {
+        margin-top: 8px;
+        font-size: 16px;
+        color: #FFFFFF;
+        a {
+            text-transform: uppercase;
+            text-decoration: underline;
+            color: #FFFFFF;
+        }
+    }
 }
